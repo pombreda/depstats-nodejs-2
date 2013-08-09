@@ -1,11 +1,8 @@
 {
-  "name": "sourcegraph-depstats-nodejs-1",
+  "name": "sourcegraph-depstats-nodejs-2",
   "version": "0.0.1",
   "repository": {
     "type":"git",
-    "url":"https://github.com/sourcegraph/depstats-nodejs-1"
-  },
-  "dependencies": {
-    "sourcegraph-depstats-nodejs-2": "0.0.1"
+    "url":"https://github.com/sourcegraph/depstats-nodejs-2"
   }
 }
